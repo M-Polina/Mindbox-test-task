@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8353a583_002D2794_002D4df0_002D9f1e_002D7e2cab9f0a3e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateCircleWithNotPositiveRadius_ThrowException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F042293-2E22-40AD-AC1C-433AFB86662E::net8.0::GeometryLibrary.Tests.CircleTests.CreateCircleWithNotPositiveRadius_ThrowException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F042293-2E22-40AD-AC1C-433AFB86662E::net8.0::GeometryLibrary.Tests.TriangleTests.CalculateArea_IsCorrect&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F042293-2E22-40AD-AC1C-433AFB86662E::net8.0::GeometryLibrary.Tests.CircleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F042293-2E22-40AD-AC1C-433AFB86662E::net8.0::GeometryLibrary.Tests.TriangleTests.CreateTriangleWithIncorrectSides_ThrowException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F042293-2E22-40AD-AC1C-433AFB86662E::net8.0::GeometryLibrary.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf90d710_002D17b7_002D4a53_002D8e3e_002D7cd8088f55cb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateArea_IsCorrect" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F042293-2E22-40AD-AC1C-433AFB86662E::net8.0::GeometryLibrary.Tests.CircleTests.CalculateArea_IsCorrect&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F042293-2E22-40AD-AC1C-433AFB86662E::net8.0::GeometryLibrary.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
